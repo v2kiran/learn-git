@@ -1,3 +1,7 @@
 first line
 second line
+<<<<<<< HEAD
 my third
+=======
+third line + modification
+>>>>>>> 2cd8b77a55ac983f5c42eccedce0e4dbbb146851
